@@ -1,0 +1,34 @@
+[
+  {
+    "id": 101,
+    "concepto": "Nómina"
+  },
+  {
+    "id": 102,
+    "concepto": "Servicios Públicos"
+  },
+  {
+    "id": 103,
+    "concepto": "Publicidad Digital"
+  },
+  {
+    "id": 104,
+    "concepto": "Papelería"
+  },
+  {
+    "id": 105,
+    "concepto": "Mantenimiento"
+  },
+  {
+    "id": 106,
+    "concepto": "Seguridad Social"
+  },
+  {
+    "id": 107,
+    "concepto": "Arrendamientos"
+  },
+  {
+    "id": 108,
+    "concepto": "Transporte"
+  }
+]
